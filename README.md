@@ -1,5 +1,5 @@
 # grabbing_banner
-Realizando Banner Grabbing a rangos de IPs publicas
+Este Script puede ser usando para realizar Banner Grabbing a rangos de IPs publicas.
 
 ## Uso
 Solo tienes que ingresa un rango de IPs y el un numero de puerto para encontrar informacion
@@ -17,3 +17,4 @@ pip install ipaddress
 ```
 
 ## Preview
+<img src="banner_preview.png" width=600>
